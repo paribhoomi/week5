@@ -155,29 +155,6 @@ The application successfully passed all implemented test cases.
 
 ---
 
-## 📸 Screenshots
-
-Application and testing screenshots are available in the `screenshots/` directory.
-
-### Food Menu
-![Food Menu](screenshots/food-menu.png)
-
-### Shopping Cart
-![Shopping Cart](screenshots/shopping-cart.png)
-
-### Checkout Page
-![Checkout Page](screenshots/checkout-page.png)
-
-### Order Success
-![Order Success](screenshots/order-success.png)
-
-### Jest Test Results
-![Jest Test Results](screenshots/jest-test-results.png)
-
-### Code Coverage
-![Code Coverage](screenshots/code-coverage.png)
-
----
 
 ## 📄 Testing Documentation
 
@@ -209,13 +186,3 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👨‍💻 Author
-
-**FoodieHub – ReactJS Food Ordering Application**
-Developed as part of a ReactJS learning and development project.
-
----
-
-## 📝 License
-
-This project is intended for educational and learning purposes.
